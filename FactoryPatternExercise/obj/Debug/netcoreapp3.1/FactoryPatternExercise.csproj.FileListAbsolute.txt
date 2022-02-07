@@ -1,0 +1,13 @@
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.csproj.AssemblyReference.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.AssemblyInfoInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.AssemblyInfo.cs
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.deps.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.runtimeconfig.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.runtimeconfig.dev.json
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/bin/Debug/netcoreapp3.1/FactoryPatternExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.dll
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.pdb
+/Users/joe/Desktop/Desktop - Joe’s MacBook Pro/repos/FactoryPatternExercise/FactoryPatternExercise/obj/Debug/netcoreapp3.1/FactoryPatternExercise.genruntimeconfig.cache
